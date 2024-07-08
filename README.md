@@ -1,10 +1,14 @@
 ![logo](2222.png)
 <h1 align="center">Hi 👋, I'm Vinod Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align="right" alt="Coding" width="400" border-radius="10px"/>
+<h3 align="center">A passionate frontend developer Full Stack Developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod-kumar-koduru&label=Profile%20views&color=0e75b6&style=flat" alt="vinod-kumar-koduru" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@vinodkumar63025" target="blank"><img src="https://img.shields.io/twitter/follow/@vinodkumar63025?logo=twitter&style=for-the-badge" alt="@vinodkumar63025" /></a> </p>
+
+- 🔭 I’m currently Studying **Computer Science And Engineering**
+
+- 🌱 I’m currently learning **Full stack**
 
 - 💬 Ask me about **👋 Hi, I’m Vinod Kumar! I’m a student at Annmacharya Institute of Science and Engineering, passionate about honing my skills in web development. Currently, I’m diving into the world of Full Stack development, exploring both front-end and back-end technologies. When I’m not coding, you’ll find me experimenting with new tech or enjoying a good cup of coffee. ☕ Let’s build amazing things together!**
 
@@ -16,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vinodkumar63025" target="blank"><img align="center" src="https://themeix.com/wp-content/uploads/twitter-x-logo-download.webp" alt="@vinodkumar63025" height="30" width="40" /></a>
+<a href="https://twitter.com/@vinodkumar63025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vinodkumar63025" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinod-kumar-royal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-kumar-royal" height="30" width="40" /></a>
 <a href="https://instagram.com/vinod__kumar__royal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinod__kumar__royal_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech_updates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_updates" height="30" width="40" /></a>
@@ -28,3 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinod-kumar-koduru&show_icons=true&locale=en&layout=compact" alt="vinod-kumar-koduru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinod-kumar-koduru&show_icons=true&locale=en" alt="vinod-kumar-koduru" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinod-kumar-koduru&" alt="vinod-kumar-koduru" /></p>
+
