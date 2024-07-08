@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 💬 Ask me about **👋 Hi, I’m Vinod Kumar! I’m a student at Annmacharya Institute of Science and Engineering, passionate about honing my skills in web development. Currently, I’m diving into the world of Full Stack development, exploring both front-end and back-end technologies. When I’m not coding, you’ll find me experimenting with new tech or enjoying a good cup of coffee. ☕ Let’s build amazing things together!**
+- 💬 Ask me about **👋 Hi, I’m Vinod Kumar! I’m a student at Annamacharya Institute of Technology and Sciences, passionate about honing my skills in web development. Currently, I’m diving into the world of Full Stack development, exploring both front-end and back-end technologies. When I’m not coding, you’ll find me experimenting with new tech or enjoying a good cup of coffee. ☕ Let’s build amazing things together!**
 
 - 📫 How to reach me **vinodkuamar57799@gmail.com**
 
